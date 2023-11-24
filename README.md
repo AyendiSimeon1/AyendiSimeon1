@@ -1,5 +1,4 @@
- to My GitHub Profile 👋
-**About Me**
+
 Hello there! I'm Simeon Ayendi, a passionate backend engineer based in Nigeria. My journey in the world of sofware engineering has been a thrilling adventure, and I'm excited to share my projects and contributions with you.
 
 **🔭 Current Focus**
