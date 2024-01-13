@@ -7,8 +7,6 @@ I'm currently working on improving myself as a backend developer to be able solv
 **🌱 Learning & Exploring**
 I believe in continuous learning, and I'm  exploring python, django, nodejs, express and flask. My GitHub repositories serve as a reflection of my growth and commitment to staying at the forefront of innovation.
 
-Feel free to explore these projects, contribute, and let me know your thoughts!
-
 🤝 Open for Collaboration
 If you share a passion for python, machine learning nodejs, let's collaborate! I'm open to new ideas and projects, so don't hesitate to drop me a message.
 
