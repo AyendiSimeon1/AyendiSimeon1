@@ -10,4 +10,4 @@ I believe in continuous learning, and I'm  exploring python, django, nodejs, exp
 🤝 Open for Collaboration
 If you share a passion for python, machine learning nodejs, let's collaborate! I'm open to new ideas and projects, so don't hesitate to drop me a message.
 
-Thank you for visiting my GitHub profile! I hope you find something interesting, and I look forward to connecting with you.
+Thank you for visiting my GitHub profile! I hope you find something interesting.
