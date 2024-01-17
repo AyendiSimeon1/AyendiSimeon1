@@ -1,4 +1,5 @@
-Hello there! I'm Simeon Ayendi, A passionate backend engineer with proficiency in languages like Python, JavaScript and framework like Django and nodejs.
+
+ there! I'm Simeon Ayendi, A passionate backend engineer with proficiency in languages like Python, JavaScript and framework like Django and nodejs.
 My journey in the world of sofware has been a thrilling adventure, and I'm excited to share my projects and contributions with you.
 
 **🔭 Current Focus**
