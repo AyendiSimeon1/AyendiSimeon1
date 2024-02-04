@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Backend Developer & ML Engineer</h3>
 - 🔭 I’m currently working on **AI Powered Resume Builder**
 - 🌱 I’m currently learning **Machine Learing**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
