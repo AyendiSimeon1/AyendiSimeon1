@@ -1,27 +1,63 @@
-<h1 align="center">Hi 👋, I'm Simeon Ayendi</h1>
-<h3 align="center">A passionate Backend developer</h3>
+# 👋 Hello, I'm **Simeon Ayendi** 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayendisimeon1&label=Profile%20views&color=0e75b6&style=flat" alt="ayendisimeon1" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2196F3&width=600&lines=Full+Stack+Developer+%7C+Business+Solution+Builder;Next.js+%2B+GraphQL+%2B+React+Expert;Open+for+Freelance+Opportunities" alt="Typing SVG" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayendisimeon1" alt="ayendisimeon1" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/dev_ayendi" target="blank"><img src="https://img.shields.io/twitter/follow/dev_ayendi?logo=twitter&style=for-the-badge" alt="dev_ayendi" /></a> </p>
+### 🚀 About Me
+I'm **Simeon Ayendi**, a passionate **Full Stack Developer** with a focus on crafting **scalable business solutions** that drive value for clients. I specialize in **Next.js**, **GraphQL**, **JavaScript**, **TypeScript**, **Python**, **Django**, **Tailwind CSS**, **Material UI**, and **React**. My goal? To bring your vision to life through seamless, high-performing applications.
 
-- 🔭 I’m currently working on an AI powered Resume Builder **HireUp**
+---
 
-- 🌱 I’m currently learning **Machine Learning**
+### 🛠️ Tech Stack & Tools
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- **Frontend**: `Next.js`, `React`, `JavaScript`, `TypeScript`, `Tailwind CSS`, `Material UI`
+- **Backend**: `GraphQL`, `Python`, `Django`
+- **Database**: `PostGres`, `MongoDB`
+- **Others**: `Git`, `Docker`, `REST APIs`
 
-- 👨‍💻 All of my projects are available at [GitHub.com/Ayendisimeon1](GitHub.com/Ayendisimeon1)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,graphql,js,ts,python,django,tailwind,materialui,react" />
+</p>
 
-- 📝 I regularly write articles on [Ayendi.hashnode.com](Ayendi.hashnode.com)
+---
 
-- 💬 Ask me about **React, Django, API, Python, JavaScript**
+### 🏢 My Services
+- **Business Solutions Development**: Custom, scalable solutions for your business challenges.
+- **Full Stack Development**: Comprehensive development from backend to frontend.
+- **Collaboration**: Open to work on projects that add value to businesses.
 
-- 📫 How to reach me **ayendisimeon3@gmail.com**
+---
 
-- ⚡ Fun fact **I Love coding 🖥️**
+### 📫 Get in Touch
+Want to collaborate or discuss a project? Feel free to reach out!
+
+- **📧 Email**: [ayendisimeon1@gmail.com](mailto:ayendisimeon1@gmail.com)
+- **🌐 LinkedIn**: [linkedin.com/in/simeonayendi](https://linkedin.com/in/simeonayendi)
+
+---
+
+### 💼 Recent Projects & Highlights
+
+- **Business Chatbot Platform** — An automated platform that enhances customer support efficiency with Next.js and GraphQL.
+- **Analytics Dashboard** — Developed a high-performance dashboard for visualizing key business metrics.
+- **E-commerce Solution** — Created a dynamic, responsive e-commerce site with Next.js and Tailwind CSS.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💼_Open_for_Freelance_Opportunities-2196F3?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=2000&color=F50057&center=true&vCenter=true&width=800&lines=Let's+Build+Your+Next+Project!;Code+With+Passion%2C+Deliver+With+Precision!" />
+</p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
