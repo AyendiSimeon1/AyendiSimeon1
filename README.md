@@ -22,30 +22,12 @@ I'm **Simeon Ayendi**, a passionate **Full Stack Developer** with a focus on cra
   <img src="https://skillicons.dev/icons?i=nextjs,graphql,js,ts,python,django,tailwind,materialui,react" />
 </p>
 
----
-
-### 🏢 My Services
-- **Business Solutions Development**: Custom, scalable solutions for your business challenges.
-- **Full Stack Development**: Comprehensive development from backend to frontend.
-- **Collaboration**: Open to work on projects that add value to businesses.
-
----
 
 ### 📫 Get in Touch
 Want to collaborate or discuss a project? Feel free to reach out!
 
 - **📧 Email**: [ayendisimeon1@gmail.com](mailto:ayendisimeon1@gmail.com)
-- **🌐 LinkedIn**: [linkedin.com/in/simeonayendi](https://linkedin.com/in/simeonayendi)
-
----
-
-### 💼 Recent Projects & Highlights
-
-- **Business Chatbot Platform** — An automated platform that enhances customer support efficiency with Next.js and GraphQL.
-- **Analytics Dashboard** — Developed a high-performance dashboard for visualizing key business metrics.
-- **E-commerce Solution** — Created a dynamic, responsive e-commerce site with Next.js and Tailwind CSS.
-
----
+- **🌐 LinkedIn**: [linkedin.com/in/simeonayendi](https://linkedin.com/in/simeon-ayendi)
 
 <p align="center">
   <img src="https://img.shields.io/badge/💼_Open_for_Freelance_Opportunities-2196F3?style=for-the-badge&logo=github" />
